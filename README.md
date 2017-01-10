@@ -23,7 +23,7 @@ $ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/yourSlackWebHookId
    python3 docker_stat.py
 ```
 
-Read more about this here: [Docker containers stats notifications in Slack](https://whiletrue.run/2017/01/06/docker-containers-stats-notifications-in-slack/)
+Read more about this here: [Docker containers stats notifications in Slack](https://whiletrue.run/2017/01/06/post-docker-containers-statistics-to-slack/)
 
 Code reference:
 
